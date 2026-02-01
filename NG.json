@@ -1,51 +1,40 @@
 {
   "executive": [
-    { "name": "Bola Ahmed Tinubu", "role": "President" },
-    { "name": "Kashim Shettima", "role": "Vice President" }
+    { "name": "", "role": "President" },
+    { "name": "", "role": "Vice President" },
+    { "name": "", "role": "Chief of Staff" },
+    { "name": "", "role": "Secretary to the Government" }
   ],
   "cabinet": [
-    { "name": "Yemi Cardoso", "role": "Governor, Central Bank of Nigeria" },
-    { "name": "Olubunmi Tunji-Ojo", "role": "Minister of Interior" },
-    { "name": "Nyesom Wike", "role": "Minister of the Federal Capital Territory" },
-    { "name": "Mohammed Badaru Abubakar", "role": "Minister of Defence" },
-    { "name": "Bosun Tijani", "role": "Minister of Communications, Innovation and Digital Economy" },
-    { "name": "Wale Edun", "role": "Minister of Finance and Coordinating Minister of the Economy" }
+    { "name": "", "role": "Minister of Agriculture and Food Security" },
+    { "name": "", "role": "Minister of Education" },
+    { "name": "", "role": "Minister of Health" },
+    { "name": "", "role": "Minister of Works" },
+    { "name": "", "role": "Minister of Justice / Attorney General" },
+    { "name": "", "role": "Minister of Foreign Affairs" }
+    /* Add all other ministers here */
   ],
+  "legislature": {
+    "senators": [
+      { "name": "", "state": "Abia North" },
+      { "name": "", "state": "Abia Central" },
+      { "name": "", "state": "Abia South" }
+      /* … and so on for all states */
+    ],
+    "house_of_reps": [
+      { "name": "", "constituency": "Lagos Island I" },
+      { "name": "", "constituency": "Surulere II" }
+      /* … all other constituencies */
+    ]
+  },
   "regional": [
-    {
-      "name": "Babajide Sanwo-Olu",
-      "role": "Governor",
-      "area": "Lagos State"
-    },
-    {
-      "name": "Alex Otti",
-      "role": "Governor",
-      "area": "Abia State"
-    },
-    {
-      "name": "Caleb Mutfwang",
-      "role": "Governor",
-      "area": "Plateau State"
-    },
-    {
-      "name": "Umar Namadi",
-      "role": "Governor",
-      "area": "Jigawa State"
-    }
+    { "name": "", "role": "Governor", "area": "Lagos State" },
+    { "name": "", "role": "Governor", "area": "Kano State" }
+    /* … all other state governors */
   ],
-  "senators": [
-    { "name": "Abubakar Sani", "role": "Senator", "area": "Kaduna Central" },
-    { "name": "Ifeanyi Okowa", "role": "Senator", "area": "Delta North" }
-    /* Add all 109 senators similarly */
-  ],
-  "house_of_reps": [
-    { "name": "Femi Gbajabiamila", "role": "House of Reps Member", "area": "Surulere I" },
-    { "name": "Akin Alabi", "role": "House of Reps Member", "area": "Egbeda/Ona Ara" }
-    /* Add all 360 House members similarly */
-  ],
-  "local_government_chairmen": [
-    { "name": "Adekunle Johnson", "role": "Chairman", "area": "Lagos Island LGA" },
-    { "name": "Fatima Bello", "role": "Chairman", "area": "Kano Municipal LGA" }
-    /* Add all 774 LG chairmen similarly */
+  "local_government": [
+    { "name": "", "role": "LGA Chairman", "area": "Ikeja Local Government" },
+    { "name": "", "role": "LGA Chairman", "area": "Alimosho Local Government" }
+    /* … other LGAs */
   ]
 }
