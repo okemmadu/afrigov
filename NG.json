@@ -1,0 +1,20 @@
+{
+  "executive": [
+    { "name": "Bola Ahmed Tinubu", "role": "President" },
+    { "name": "Kashim Shettima", "role": "Vice President" }
+  ],
+  "cabinet": [
+    { "name": "Yemi Cardoso", "role": "Governor, Central Bank of Nigeria" },
+    { "name": "Olubunmi Tunji-Ojo", "role": "Minister of Interior" },
+    { "name": "Nyesom Wike", "role": "Minister of the Federal Capital Territory" },
+    { "name": "Mohammed Badaru Abubakar", "role": "Minister of Defence" },
+    { "name": "Bosun Tijani", "role": "Minister of Communications, Innovation and Digital Economy" },
+    { "name": "Wale Edun", "role": "Minister of Finance and Coordinating Minister of the Economy" }
+  ],
+  "regional": [
+    { "name": "Babajide Sanwo-Olu", "role": "Governor", "area": "Lagos State" },
+    { "name": "Alex Otti", "role": "Governor", "area": "Abia State" },
+    { "name": "Caleb Mutfwang", "role": "Governor", "area": "Plateau State" },
+    { "name": "Umar Namadi", "role": "Governor", "area": "Jigawa State" }
+  ]
+}
