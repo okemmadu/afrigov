@@ -3,18 +3,48 @@
     { "name": "Bola Ahmed Tinubu", "role": "President" },
     { "name": "Kashim Shettima", "role": "Vice President" }
   ],
-  "cabinet": [
-    { "name": "Yemi Cardoso", "role": "Governor, Central Bank of Nigeria" },
-    { "name": "Olubunmi Tunji-Ojo", "role": "Minister of Interior" },
-    { "name": "Nyesom Wike", "role": "Minister of the Federal Capital Territory" },
-    { "name": "Mohammed Badaru Abubakar", "role": "Minister of Defence" },
-    { "name": "Bosun Tijani", "role": "Minister of Communications, Innovation and Digital Economy" },
-    { "name": "Wale Edun", "role": "Minister of Finance and Coordinating Minister of the Economy" }
-  ],
+  "legislative": {
+    "presiding_officers": [
+      { "name": "Godswill Akpabio", "role": "Senate President", "state": "Akwa Ibom" },
+      { "name": "Barau Jibrin", "role": "Deputy Senate President", "state": "Kano" }
+    ]
+  },
   "regional": [
-    { "name": "Babajide Sanwo-Olu", "role": "Governor", "area": "Lagos State" },
-    { "name": "Alex Otti", "role": "Governor", "area": "Abia State" },
-    { "name": "Caleb Mutfwang", "role": "Governor", "area": "Plateau State" },
-    { "name": "Umar Namadi", "role": "Governor", "area": "Jigawa State" }
+    { "state": "Abia", "governor": "Alex Otti", "party": "LP" },
+    { "state": "Adamawa", "governor": "Ahmadu Umaru Fintiri", "party": "PDP" },
+    { "state": "Akwa Ibom", "governor": "Umo Eno", "party": "APC" },
+    { "state": "Anambra", "governor": "Charles Soludo", "party": "APGA" },
+    { "state": "Bauchi", "governor": "Bala Mohammed", "party": "PDP" },
+    { "state": "Bayelsa", "governor": "Douye Diri", "party": "APC" },
+    { "state": "Benue", "governor": "Hyacinth Alia", "party": "APC" },
+    { "state": "Borno", "governor": "Babagana Zulum", "party": "APC" },
+    { "state": "Cross River", "governor": "Bassey Otu", "party": "APC" },
+    { "state": "Delta", "governor": "Sheriff Oborevwori", "party": "APC" },
+    { "state": "Ebonyi", "governor": "Francis Nwifuru", "party": "APC" },
+    { "state": "Edo", "governor": "Monday Okpebholo", "party": "APC" },
+    { "state": "Ekiti", "governor": "Biodun Oyebanji", "party": "APC" },
+    { "state": "Enugu", "governor": "Peter Mbah", "party": "APC" },
+    { "state": "Gombe", "governor": "Muhammad Inuwa Yahaya", "party": "APC" },
+    { "state": "Imo", "governor": "Hope Uzodinma", "party": "APC" },
+    { "state": "Jigawa", "governor": "Umar Namadi", "party": "APC" },
+    { "state": "Kaduna", "governor": "Uba Sani", "party": "APC" },
+    { "state": "Kano", "governor": "Abba Kabir Yusuf", "party": "APC" },
+    { "state": "Katsina", "governor": "Dikko Umaru Radda", "party": "APC" },
+    { "state": "Kebbi", "governor": "Nasir Idris", "party": "APC" },
+    { "state": "Kogi", "governor": "Ahmed Usman Ododo", "party": "APC" },
+    { "state": "Kwara", "governor": "AbdulRahman AbdulRazaq", "party": "APC" },
+    { "state": "Lagos", "governor": "Babajide Sanwo-Olu", "party": "APC" },
+    { "state": "Nasarawa", "governor": "Abdullahi Sule", "party": "APC" },
+    { "state": "Niger", "governor": "Mohammed Umar Bago", "party": "APC" },
+    { "state": "Ogun", "governor": "Dapo Abiodun", "party": "APC" },
+    { "state": "Ondo", "governor": "Lucky Aiyedatiwa", "party": "APC" },
+    { "state": "Osun", "governor": "Ademola Adeleke", "party": "Accord" },
+    { "state": "Oyo", "governor": "Seyi Makinde", "party": "PDP" },
+    { "state": "Plateau", "governor": "Caleb Mutfwang", "party": "APC" },
+    { "state": "Rivers", "governor": "Siminalayi Fubara", "party": "APC" },
+    { "state": "Sokoto", "governor": "Ahmad Aliyu", "party": "APC" },
+    { "state": "Taraba", "governor": "Agbu Kefas", "party": "APC" },
+    { "state": "Yobe", "governor": "Mai Mala Buni", "party": "APC" },
+    { "state": "Zamfara", "governor": "Dauda Lawal", "party": "PDP" }
   ]
 }
